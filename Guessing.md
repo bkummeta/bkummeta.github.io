@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     Start([Start]) --> A[Generate a Random Number within the range]
     A --> B[Prompt User to Guess a number]
@@ -13,3 +14,4 @@ flowchart TD
     H -- No --> J[Display Your guess is too low! Try again]
     J --> B
     G --> End([End])
+
