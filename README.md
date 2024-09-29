@@ -16,7 +16,7 @@ To clone the repository on my computer, I first created a repository on github a
  * I love playing _Badminton_. And I have been playing this game since I was in _Grade 4_  
  * I like to explore **new** places. I explored many places in continents such as, _Asia_, and _Europe_.  
  * I like to **_shop_** a little. I love to shop if it is "_necessary_", but not very often.   
-## Websites I recommend
+## Websites I recommend using:
  1. -[W3Schools](https://www.w3schools.com)   I find the website really interesting because it has interactive tutorials and great examples of coding.  
  2. -[Code.org](https://code.org)   This website allows students to learn about Technology in an interactive and fun way.  
 
