@@ -11,9 +11,9 @@ To clone the repository on my computer, I first created a repository on github a
 
 # About Me  
 ## My Interests 
- -I love playing Badminton
- -I like to explore new places
- -I like to shop a little 
+ -I love playing Badminton  
+ -I like to explore new places  
+ -I like to shop a little   
 ## Websites I recommend
 	[W3Schools](https://www.w3schools.com) I find the website really interesting because it has interactive tutorials and great examples of coding.
 	[Code.org](https://code.org) This website allows students to learn in an interactive and fun way.
