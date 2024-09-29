@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     Start([Start]) --> A[Generate a Random Number]
     A --> B[Prompt User for Guess]
