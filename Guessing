@@ -1,0 +1,15 @@
+flowchart TD
+    Start([Start]) --> A[Generate a Random Number]
+    A --> B[Prompt User for Guess]
+    B --> C{Is Input Valid?}
+    C -- No --> D[Ask for a valid number]
+    D --> B
+    C -- Yes --> E{Is Guess Correct?}
+    E -- Yes --> F[Display "Correct Guess!"]
+    F --> G[End Game]
+    E -- No --> H{Is Guess Too High?}
+    H -- Yes --> I[Display "Too High!"]
+    I --> B
+    H -- No --> J[Display "Too Low!"]
+    J --> B
+    G --> End([End])
