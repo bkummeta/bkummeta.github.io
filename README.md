@@ -17,4 +17,5 @@ To clone the repository on my computer, I first created a repository on github a
 ## Websites I recommend
  -[W3Schools](https://www.w3schools.com)   I find the website really interesting because it has interactive tutorials and great examples of coding.  
  -[Code.org](https://code.org)   This website allows students to learn in an interactive and fun way.  
+
 I really am grateful to have taken this class, it helps me revise what I have previously learnt and also digs a little deep into the same topic.
